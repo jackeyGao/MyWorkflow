@@ -20,7 +20,9 @@ MyWorkflows
 
 ### install
 
+```bash
   brew install figlet
+```
   
 然后安装alfred 双击figBoom.alfredworkflow 导入alfred的workflows中
 
