@@ -1,0 +1,6 @@
+{
+  "name": "Alfred workflows",
+  "tagline": "自己开发的workflow",
+  "body": "MyWorkflows\r\n------------\r\n\r\n\r\n## echo\r\n\r\n生成回声效果文字\r\n\r\n### install\r\n\r\n  \r\n然后安装alfred 双击echo.alfredworkflow 导入alfred的workflows中\r\n\r\n到此安装完毕, 唤出alfred后 \"echo test\"后结果会复制到剪切版. \r\n\r\n\r\n## figBoom\r\n\r\n用figlet生成 ASCII 艺术字，本人用于QQ清屏\r\n\r\n### install\r\n\r\n```bash\r\n  brew install figlet\r\n```\r\n  \r\n然后安装alfred 双击figBoom.alfredworkflow 导入alfred的workflows中\r\n\r\n到此安装完毕, 唤出alfred后 \"fig test\"后结果会复制到剪切版. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
